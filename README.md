@@ -4,7 +4,7 @@
 
 I am Uthra , Currently an engineering student and a Zealous Softerware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXczOWp4NzllenM3ZGNmZnVodnJoM2s0a2Z5djlteDMwMmRqY3hoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0ejhjcGJ1ZHd0MHBobmFlazh0aTlzeDI4b3RnM3FwZzZnOTNvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 </div>
 
 - :telescope: Into building captivating and engaging websites,  have a fondness for delving into fashions of front-end
