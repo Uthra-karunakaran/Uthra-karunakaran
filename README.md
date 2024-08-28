@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me :
 
-I am Uthra , Currently an engineering student and a Zealous Softeware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am Uthra , Currently an engineering student and a Zealous Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo0ejhjcGJ1ZHd0MHBobmFlazh0aTlzeDI4b3RnM3FwZzZnOTNvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 </div>
